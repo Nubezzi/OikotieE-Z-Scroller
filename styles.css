@@ -3,12 +3,12 @@ html * {
 }
 
 #content{
-    margin: 1%;
     align-items: center;
-    padding: 1%;
-    min-width: 150px;
-    min-height: 170px;
+    padding: 0%;
+    min-width: 200px;
+    min-height: 200px;
     display: block;
+    text-align: left;
 }
 
 .bottomtext{

@@ -1,0 +1,16 @@
+html * {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#content{
+    margin: 1%;
+    align-items: center;
+    padding: 1%;
+    min-width: 150px;
+    min-height: 170px;
+    display: block;
+}
+
+.bottomtext{
+    text-align: center;
+}
